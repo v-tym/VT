@@ -1,0 +1,192 @@
+[
+    {
+        "id": "1",
+        "Name_UA": "ТЦ «Ретровіль»",        
+        "Name_EN": "Retroville shopping center",
+        "Location_UA": "просп. Європейського Союзу, 47, Київ",        
+        "Location_EN": "ave. European Union, 47, Kyiv",
+        "Using": "Tekla Structures",       
+        "Responsibility_UA": "Виробничі креслення та монтажні схеми арочних конструкцій даху з трубчастих профілів на фланцевих з’єднаннях.",
+        "Responsibility_EN": "Production drawings and assembly diagrams of arched roof structures made from tubular sections with flanged joints."
+    },
+    {
+        "id": "2",
+        "Name_UA": "Розширення заводу з переробки етанолу",        
+        "Name_EN": "Ethanol Processing Plant Expansion",
+        "Location_UA": "Ейлмер, Онтаріо, Канада",        
+        "Location_EN": "Aylmer, Ontario, Canada",
+        "Using": "Tekla Structures",       
+        "Responsibility_UA": "Моделювання, розробка виробничих креслень та монтажних схем за канадськими стандартами та постійна комунікація із Замовником.",
+        "Responsibility_EN": "Modeling, designing production drawings and assembly diagrams according to Canadian standards and constantly communicating with the Сustomer."
+    }, 
+    {
+        "id": "3",
+        "Name_UA": "Мегамаркет «Нивки»",        
+        "Name_EN": "Nyvki MegaMarket",
+        "Location_UA": "м. Київ, вул. Данила Щербаківського, 58",        
+        "Location_EN": "58 Danyla Scherbakivskogo Street, Kyiv",
+        "Using": "Tekla Structures",       
+        "Responsibility_UA": "Управління проектом, командна робота, моделювання, оформлення виробничих креслень та монтажних схем.",
+        "Responsibility_EN": "Project management, teamwork, modeling, creation of production drawings and assembly diagrams."
+    },
+    {
+        "id": "4",
+        "Name_UA": "Катамаран",        
+        "Name_EN": "Catamaran",
+        "Location_UA": "Чернігів, Україна",        
+        "Location_EN": "Chernihiv, Ukraine",
+        "Using": "Autodesk Inventor, Autocad",       
+        "Responsibility_UA": "Нестандартне замовлення. Барабан, його підйом, опускання, навіс, каркасні конструкції – моя частина роботи. Постійний зв'язок із Замовником. Доопрацювання моделі (модель була готова на 70%), оформлення виробничих креслень, монтажних схем. Контроль виробництва та монтажу.",
+        "Responsibility_EN": "Not a standard order. The drum, its raising, lowering, canopy, and frame structures are my part of the work. Constant communication with the Customer. Finalization of the model (the model was ready at 70%), and issuance of production drawings, and assembly diagrams. Production and assembly control."
+    },
+    {
+        "id": "5",
+        "Name_UA": "Катамаран",        
+        "Name_EN": "Catamaran",
+        "Location_UA": "Чернігів, Україна",        
+        "Location_EN": "Chernihiv, Ukraine",
+        "Using": "Autodesk Inventor, Autocad",       
+        "Responsibility_UA": "На завершальному етапі складання перед тестуванням.",
+        "Responsibility_EN": "At the final stage of assembly before testing."
+    },
+    {
+        "id": "6",
+        "Name_UA": "Надбудова до існуючої будівлі",        
+        "Name_EN": "Addition to an existing building",
+        "Location_UA": "вул. Хрещатик, 38, м. Київ",        
+        "Location_EN": "Khreshchatyk Street, 38, Kyiv",
+        "Using": "Autodesk Advance Steel",       
+        "Responsibility_UA": "Геометрична складність конструкції та стислі терміни змусили завод звернутися до розробки в 3D, що дозволило спроектувати, виготовити та змонтувати конструкції вчасно.",
+        "Responsibility_EN": "The geometric complexity of the structure and the tight deadlines forced the plant to turn to the development of steel detailing in 3D, which made it possible to design, manufacture, and erect the structures on time."
+    },
+    {
+        "id": "7",
+        "Name_UA": "Опалубка фундаменту сонячних електростанцій",        
+        "Name_EN": "Formwork of solar power plants",
+        "Location_UA": "Україна",        
+        "Location_EN": "Україна",
+        "Using": "Ansys",       
+        "Responsibility_UA": "Розрахунок опалубки на деформації та міцність.",
+        "Responsibility_EN": "Calculation of the formwork section for deformations and strength."
+    },
+    {
+        "id": "8",
+        "Name_UA": "Перехідна ланка водопуску",        
+        "Name_EN": "Transitional water release link ",
+        "Location_UA": "Дніпровська ГЕС, Україна",        
+        "Location_EN": "Dniprovska HPP, Ukraine",
+        "Using": "Tekla Structures",       
+        "Responsibility_UA": "Перевірка наданої документації. Моделювання та оформлення креслень листових деталей. Розкрій, підбір на замовлення нестандартних листів.",
+        "Responsibility_EN": "Verification of the provided documentation. Modeling and design of drawings of sheet parts. Cutting, selection to order of non-standard sheets."
+    },
+    {
+        "id": "9",
+        "Name_UA": "Опори ЛЕП",        
+        "Name_EN": "Power line supports",
+        "Location_UA": "Україна",        
+        "Location_EN": "Ukraine",
+        "Using": "Tekla Structures",       
+        "Responsibility_UA": "Розробка опор ліній електропередач має свої особливості моделювання та оформлення. Для полегшення роботи була створена додаткова програма для підрахунку болтів і створення міток на монтажних схемах, що значно скоротило час розробки (від 5 днів до 1 дня в залежності від складності).",
+        "Responsibility_EN": "The development of power transmission line supports has its own modeling and drawing specifics. To facilitate the work, an additional program was created for counting bolts and creating labels on assembly diagrams, which significantly reduced the development time (from 5 days to 1 day, depending on the complexity)."
+    },
+    {
+        "id": "10",
+        "Name_UA": "Резервуар для рідких матеріалів",        
+        "Name_EN": "Liquid materials tank",
+        "Location_UA": "Чернігів, Україна",        
+        "Location_EN": "Chernihiv, Ukraine",
+        "Using": "Autodesk Autocad",       
+        "Responsibility_UA": "Підготовка виробничих креслень з урахуванням розкрою, контроль виробництва.",
+        "Responsibility_EN": "Preparation of production drawings including cutting, and production control."
+    },
+    {
+        "id": "11",
+        "Name_UA": "Обладнання для виготовлення сталевих арок",        
+        "Name_EN": "Equipment for manufacturing steel arches",
+        "Location_UA": "Київ, Україна",        
+        "Location_EN": "Kyiv, Ukraine",
+        "Using": "Autodesk Inventor",       
+        "Responsibility_UA": "Для зварювання дугоподібних двотаврових балок, в не передбаченому конструкцією трактора положенні, необхідно було створити і виготовити додаткове обладнання.",
+        "Responsibility_EN": "To weld arched I-beams in a position not foreseen by the tractor design, it was necessary to create and manufacture additional equipment."
+    },
+    {
+        "id": "12",
+        "Name_UA": "Виробничий цех",        
+        "Name_EN": "Production workshop",
+        "Location_UA": "Україна",        
+        "Location_EN": "Ukraine",
+        "Using": "Autodesk Advance Steel",       
+        "Responsibility_UA": "Типовий металевий каркас.",
+        "Responsibility_EN": "Typical metal frame."
+    },
+    {
+        "id": "13",
+        "Name_UA": "Важкий механізований міст",        
+        "Name_EN": "Heavy mechanized bridge",
+        "Location_UA": "Чернігів, Україна",        
+        "Location_EN": "Chernihiv, Ukraine",
+        "Using": "SolidWorks",       
+        "Responsibility_UA": "Заміри, моделювання та креслення важкого механізованого мосту ТММ-3М згідно ЄСКД.",
+        "Responsibility_EN": "Measurements, modeling, and drawings of the TMM-3M heavy mechanized bridge."
+    },
+    {
+        "id": "14",
+        "Name_UA": "Індивідуальна житлова прибудова",        
+        "Name_EN": "Individual residential extension",
+        "Location_UA": "Київ, Україна",        
+        "Location_EN": "Kyiv, Ukraine",
+        "Using": "Tekla Structures",       
+        "Responsibility_UA": "Криволінійна конструкція скляної покрівлі, вузли кріплення на високоміцних болтах із зварюванням, а також стиснуті терміни. 3D моделювання, проектування виробничих креслень, монтажних схем, видача звітів.",
+        "Responsibility_EN": "The curvilinear design of the glass roof, fastening nodes on high-strength bolts and with welding, and compressed due dates. 3D modeling and design of production drawings, assembly diagrams, and reports."
+    },
+    {
+        "id": "15",
+        "Name_UA": "Мотоцикл",        
+        "Name_EN": "Motorcycle",
+        "Location_UA": "Чернігів, Україна",        
+        "Location_EN": "Chernihiv, Ukraine",
+        "Using": "SolidWorks, ANSYS",       
+        "Responsibility_UA": "Розробка моделі, документації та розрахунки рами, маятника та інших елементів для серійного виробництва мотоцикла. Оформлення креслень згідно ЄСКД",
+        "Responsibility_EN": "Development of the model, documentation, and calculations of the frame, pendulum, and some elements for serial production of the motorcycle."
+    },
+    {
+        "id": "16",
+        "Name_UA": "Мотоцикл",        
+        "Name_EN": "Motorcycle",
+        "Location_UA": "Чернігів, Україна",        
+        "Location_EN": "Chernihiv, Ukraine",
+        "Using": "SolidWorks",       
+        "Responsibility_UA": "Розробка моделі форми для виготовлення матриць під форму паливного бака.",
+        "Responsibility_EN": "Development of a model of a mold for the production of matrices for the shape of a fuel tank."
+    },
+    {
+        "id": "17",
+        "Name_UA": "Мотоцикл",        
+        "Name_EN": "Motorcycle",
+        "Location_UA": "Чернігів, Україна",        
+        "Location_EN": "Chernihiv, Ukraine",
+        "Using": "SolidWorks",       
+        "Responsibility_UA": "Розробка моделі форми для виготовлення матриць під форму сидінь.",
+        "Responsibility_EN": "Development of a mold model for the production of matrices for seat shapes."
+    },
+    {
+        "id": "18",
+        "Name_UA": "Твердопаливний котел",        
+        "Name_EN": "Solid fuel boiler",
+        "Location_UA": "Чернігів, Україна",        
+        "Location_EN": "Chernihiv, Ukraine",
+        "Using": "Autodesk Inventor",       
+        "Responsibility_UA": "Доопрацювання моделі, виготовлення креслень, зв'язок із Замовником, контроль виробництва.",
+        "Responsibility_EN": "Finalization of the model, preparation of production drawings, communication with the Customer, and production control."
+    },
+    {
+        "id": "19",
+        "Name_UA": "Ковані вироби",        
+        "Name_EN": "Forged products",
+        "Location_UA": "Чернігів, Україна",        
+        "Location_EN": "Chernihiv, Ukraine",
+        "Using": "Autodesk Inventor",       
+        "Responsibility_UA": "Заміри, моделювання в 3D для візуалізації, на прохання Замовника, оформлення виробничих креслень.",
+        "Responsibility_EN": "Measurements, modeling in 3D for visualization, at the request of the Customer, and preparation of production drawings."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "Value_UA": "Resume",        
+        "Value_US": "Resume"
+    },
+    {
+        "id": "3",
+        "Value_UA": "3D_Portfolio",        
+        "Value_US": "3D_Portfolio"
+    },
+    {
+        "id": "4",
+        "Value_UA": "КМД",        
+        "Value_US": "Steel_Detailing"
+    },
+    {
+        "id": "5",
+        "Value_UA": "2D_Portfolio",        
+        "Value_US": "2D_Portfolio"
+    }
+]
