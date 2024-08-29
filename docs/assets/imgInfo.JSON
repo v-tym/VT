@@ -101,13 +101,13 @@
     },
     {
         "id": "11",
-        "Name_UA": "Обладнання для виготовлення сталевих арок",        
-        "Name_EN": "Equipment for manufacturing steel arches",
+        "Name_UA": "Технологічне оснащення для виготовлення сталевих арок",        
+        "Name_EN": "Technological equipment for manufacturing steel arches",
         "Location_UA": "Київ, Україна",        
         "Location_EN": "Kyiv, Ukraine",
         "Using": "Autodesk Inventor",       
-        "Responsibility_UA": "Для зварювання дугоподібних двотаврових балок, в не передбаченому конструкцією трактора положенні, необхідно було створити і виготовити додаткове обладнання.",
-        "Responsibility_EN": "To weld arched I-beams in a position not foreseen by the tractor design, it was necessary to create and manufacture additional equipment."
+        "Responsibility_UA": "Для зварювання арочних двотаврових балок, в не передбаченому конструкцією трактора положенні, необхідно було створити і виготовити додаткове оснащення тримання мундштука та руху по дузі.",
+        "Responsibility_EN": "To weld arched I-beams in a position not foreseen by the tractor design, it was necessary to create and manufacture additional equipment for holding the nozzle and moving along the arc."
     },
     {
         "id": "12",
